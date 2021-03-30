@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-weight: bold;
+  line-height: 2rem;
+  background-image: url("images/white-1846669_960_720.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.diagonalBox {
+  background: rgb(175, 117, 202);
+  background-image: linear-gradient(
+    -225deg,
+    #613b7b 0%,
+    #3584a7 51%,
+    #d5a3e9 100%
+  );
+  padding: 5rem 0;
+  transform: skew(0deg, 3deg) translateY(-90px);
+  position: relative;
+}
+
+.leftMargin {
+  margin: -25px 0 0 0;
+  margin-left: -100px;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+.skill-logo {
+  width: 8rem;
+  height: 8rem;
+}
+
+.marginBox {
+  margin-top: -190px;
+  position: relative;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+  border: 1rem solid #7d35a7;
+  height: 12rem;
+  width: 12rem;
+}
+
+.avatarImg {
+  background: -webkit-linear-gradient(
+    -225deg,
+    #613b7b 0%,
+    #3584a7 51%,
+    #d5a3e9 100%
+  );
+  
+  width: 12rem;
+  height: 12rem;
+  border-radius: 100px;
+  padding: 10px;
+
+}
+
+.profileImg {
+  height: 12rem;
+  width: 12rem;
+  margin: auto;
+  padding: auto;
+  margin: 50px;
+}
+
+.linksImg {
+  height: 40px;
+  width: 80px;
+}
+
+#section3 {
+    background-image: linear-gradient(
+        -225deg,
+        #0606078c 0%,
+        #0b0c0c69 51%,
+        #05050531 100%
+      );
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#section4 {
+    background-image: linear-gradient(
+      -225deg,
+      #0606078c 0%,
+      #0b0c0c69 51%,
+      #05050531 100%
+    );
+  }
+  #section2 {
+    background-image: linear-gradient(
+      -225deg,
+      #06060721 0%,
+      #0b0c0c1c 51%,
+      #0505051f 100%
+    );
+  }
+
+.font-25 {
+  font-size: 18px;
+}
+
+.font-35 {
+  font-size: 35px;
+}
+
+@media (max-width: 575.98px) {
+  .leftMargin {
+    margin: -25px 0 0 0;
+    margin-left: -40px;
+  }
+}

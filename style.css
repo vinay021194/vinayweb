@@ -92,25 +92,15 @@ body {
 }
 
 #section3 {
-    background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
+   background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
     display: flex;
     justify-content: space-around;
     align-items: center;
 #section4 {
-    background-image: linear-gradient(
-      -225deg,
-      #0606078c 0%,
-      #0b0c0c69 51%,
-      #05050531 100%
-    );
+    background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
   }
   #section2 {
-    background-image: linear-gradient(
-      -225deg,
-      #06060721 0%,
-      #0b0c0c1c 51%,
-      #0505051f 100%
-    );
+    background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
   }
 
 .font-25 {

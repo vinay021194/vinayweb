@@ -9,7 +9,7 @@ body {
  background-repeat: no-repeat;
  background-attachment: fixed;
 }
-.card {
+/* .card {
   width: 300px;
   padding: 20px;
   margin: 20px;
@@ -17,7 +17,7 @@ body {
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   background-color: #fff;           
- }
+ } */
 .container-fluid {
   width: 100%;
   padding-right: 15px;
